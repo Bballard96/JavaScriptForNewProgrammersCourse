@@ -94,7 +94,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 7. Homework
 
 ## Week 5 - Objects Revisited
-### 0. Pop quiz
+### 0. Pop quiz - skipped
 ### 1. Literal Objects
 ### 2. Constructor functions
 ### 3. Classes
@@ -129,7 +129,6 @@ Fernando also has many hours tutoring experience in many programming languages t
 - accepting any type in a function
 ### 6. == vs. ===
 ### 7. destructuring objects, arrays, enhanced objects, const, let, arrow functions
-### 8. The mistery of this
 ### 9. 
 
 ## Week 8 -- Algorithms

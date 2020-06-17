@@ -163,6 +163,8 @@ In static langugages statick methods cannot be inherited.
 
 ## Hour 3
 ### 7. Enhanced objects
+
 ### 8. Object destructuring
+
 ### 9. the mystery of this
 ### 10. Homework
