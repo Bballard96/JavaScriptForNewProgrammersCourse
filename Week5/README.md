@@ -167,4 +167,6 @@ In static langugages statick methods cannot be inherited.
 ### 8. Object destructuring
 
 ### 9. the mystery of this
+https://medium.com/javascript-in-plain-english/hello-javascript-this-bb97c54f0823
+
 ### 10. Homework

@@ -108,12 +108,12 @@ Fernando also has many hours tutoring experience in many programming languages t
 
 ## Week 6 - More Function Arrays
 ### 0. Pop quiz
-### 1. Map
-### 2. Reduce
-### 3. Filter
-### 4. Some
-### 5. Closures
-### 6. Array cloning and destructuring
+### 1. Brief Primer Getting DOM input
+### 2. Map
+### 3. Reduce
+### 4. Filter
+### 5. Some
+### 6. Closures
 ### 7. Homework
 
 ## Week 7 - JS Magic 
