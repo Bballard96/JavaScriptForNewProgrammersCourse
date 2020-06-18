@@ -293,7 +293,7 @@ function handleSubmitClick(e){
 ### In the code above we added an li element tot he UL
 That happens each time the button is clicked
 
-## Hour 2
+## Hour 2 - Array Methods
 
 #### Each
 Loop through elements
