@@ -4,7 +4,7 @@
 - Enrollment is free - it's a way for me to do I love to do... teach and also a way to give back
 - This means you pay nothing upfront before or after
 - There are no upsells and no gimmicks
-- Clases will begin Sunday May 17 from 2PM-5PM Central (3-6PM Eastern).  This schedule is tentative depending on feedback I get from student candidates.
+- Clases will begin Sunday May 17, 2020 from 2PM-5PM Central (3-6PM Eastern).  This schedule is tentative depending on feedback I get from student candidates.
 - If you are interested please shoot me an email at beginningprogrammer.com@gmail.com.
 - Must have wifi connection and a computer with Linux, Windows or Mac OS with at least 8GB Ram.  The 8GB requirement is to get a decent video connection.
 
