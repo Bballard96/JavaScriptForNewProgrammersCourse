@@ -27,7 +27,7 @@
 
 /*
     Assignment 1:
-    Task: Fix this function so that it compares a b and and returns the lowes of 
+    Task: Fix this function so that it compares a b and c and returns the lowes of 
     the three numbers... you will have to do multiple if statements
 
     Objective: put your brain to work with logic and the use of boolean operations
