@@ -13,10 +13,7 @@ function test(actual, expected, testName){
 //exercise 1
 function isUpper(myChar){
     let result = false;
-    //your code here
-    //check if upper and set result to
-    //to true if the value is upperCase
-    //use the ascii values to check
+
 
     return result;
 }
