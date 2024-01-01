@@ -34,10 +34,6 @@ test(isUpper('m'), false, "IsUpper 7")
 //exercise 2
 function isLower(myChar){
     let result = false;
-    //your code here
-    //check if myChar is lower and set result to
-    //to true if the value is upperCase
-    //use the ascii values to check
 
     return result;
 }
