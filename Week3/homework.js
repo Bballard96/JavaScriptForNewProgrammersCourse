@@ -11,7 +11,6 @@ function test(actual, expected, testName){
 
 
 //exercise 1
-function isUpper(myChar){
     function isUpper(myChar){
         if (typeof myChar === 'string' && myChar.toUpperCase() === myChar ) {
             return true
@@ -19,8 +18,7 @@ function isUpper(myChar){
             return false;
         }
     }
-    
-}
+
 
 test(isUpper('A'), true, "IsUpper 1")
 test(isUpper('M'), true, "IsUpper 2")
