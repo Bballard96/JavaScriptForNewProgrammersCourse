@@ -31,10 +31,14 @@ test(isUpper('m'), false, "IsUpper 7")
 
 //exercise 2
 function isLower(myChar){
-    let result = false;
-
-    return result;
+    if (typeof myChar === 'string' && myChar.toLowerCase() === myChar ) {
+        return true
+    } else  {
+        return false;
+    }
 }
+
+
 
 test(isLower('A'), false, "IsLower 1")
 test(isLower('M'), false, "IsLower 2")
