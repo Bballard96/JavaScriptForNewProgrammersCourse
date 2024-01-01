@@ -53,7 +53,7 @@ test(isLower('z'), true, "IsLower 7")
 //convert the character to lower case
 //
 function toLowerCase(myChar){
-    let newChar = myChar;
+    let newChar = myChar.toLowerCase();
 
     return newChar;
 }
