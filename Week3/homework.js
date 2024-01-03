@@ -69,6 +69,9 @@ test(toLowerCase('z'), 'z', "toLower 6")
 //print the array using a for loop
 function printArray(myArray){
     //use a for loop to print the array
+    for (let i = 0; i < myArray.length; i++) {
+        console.log(myArray[i])
+    }
 }
 
 //exercise 5
