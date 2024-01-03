@@ -77,7 +77,9 @@ function printArray(myArray){
 //exercise 5
 //Print the array as a string
 //do not change the array but print it as a string
-//do not use any array methods
+//do not use any array methods 
+
+///// ???????? ///////
 function printArrayAsString(myArray){
     let myString = myArray.toString()
     return myString;
