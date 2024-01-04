@@ -104,7 +104,8 @@ test(convertArrayToString([1]), '1', "convertArrayToString 2")
 //exercise 7
 //return the lastElement in the array
 function getLastElement(myArray){
-
+    let answer = myArray[myArray.length - 1]
+    return answer
 }
 test(getLastElement([1]), 1, "getLastElement 1")
 test(getLastElement([1,2,,3]), 3, "getLastElement 2")
