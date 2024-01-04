@@ -118,7 +118,11 @@ test(getLastElement([1,2,,3]), 3, "getLastElement 2")
 //assume the values are all integers
 //hit use for loops
 function containsValue(myArray, value){
-
+    if (myArray.includes(value)) {
+        return true
+        } else {
+        return false
+        }
 }
 test(containsValue([1,2,3], 1), true, "containsValue 1")
 test(containsValue([1,2,,3], 2), true, "containsValue 2")
