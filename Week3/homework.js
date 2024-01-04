@@ -94,7 +94,7 @@ function printArrayAsString(myArray){
 //do not use any array methods
 //
 function convertArrayToString(myArray){
-
+    console.log(myArray.toString())   
 }
 
 test(convertArrayToString([1,2,3,4,5]), '1,2,3,4,5', "convertArrayToString 1")
